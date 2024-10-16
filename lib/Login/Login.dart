@@ -48,7 +48,7 @@ class Login extends StatelessWidget {
                     SizedBox(
                       height: MediaQuery.of(context).size.height*0.001,
                     ),
-                    Text('Login',
+                    Text('Login gygygyg',
                       style: TextStyle(fontSize: 40,color: mycolor2,fontFamily: 'Quicksand',fontStyle: FontStyle.italic),
                     ),
 
